@@ -16,7 +16,7 @@ Finally, run the project
 
     python3 main.py
 
-After inputing commands terminal needs to be resized maximally
+After inputting commands terminal needs to be resized maximally
 and increase cell spacing by 2x so image would look clean and cool
 
 --------------------------------------
